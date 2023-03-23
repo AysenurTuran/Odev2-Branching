@@ -1,0 +1,14 @@
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.csproj.AssemblyReference.cache
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.AssemblyInfoInputs.cache
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.AssemblyInfo.cs
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.csproj.CoreCompileInputs.cache
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\bin\Debug\netcoreapp3.1\calculateapp1.exe
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\bin\Debug\netcoreapp3.1\calculateapp1.deps.json
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\bin\Debug\netcoreapp3.1\calculateapp1.runtimeconfig.json
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\bin\Debug\netcoreapp3.1\calculateapp1.runtimeconfig.dev.json
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\bin\Debug\netcoreapp3.1\calculateapp1.dll
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\bin\Debug\netcoreapp3.1\calculateapp1.pdb
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.dll
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.pdb
+C:\Users\Ayşenur TURAN\source\repos\calculateapp1\calculateapp1\obj\Debug\netcoreapp3.1\calculateapp1.genruntimeconfig.cache
